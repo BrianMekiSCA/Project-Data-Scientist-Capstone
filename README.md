@@ -36,7 +36,11 @@ According to the model, it is likely that if a logistic regression were fit to d
 
 # Supporting Material
 The entirity of the project can be found on Github in repo: https://github.com/BrianMekiSCA/Project-Data-Scientist-Capstone
-The reader can also find a write-up of the project at https://medium.com/@brian.meki/life-or-death-46db705b0285
+The reader can also find a write-up of the project at https://medium.com/@brian.meki/life-or-death-aaa8e42dac6b
 A collection of files is accompanies this project. These include:
 * copies of training and test Disease Prediction Data in CSV format,
-* plot outputs showing proportions of diseases in the responce variable, proprtions of presence/absence of symptoms and a confusion matrix from the evaluation of the model are included as well.,
+* plot outputs showing
+* - proportions of diseases in the responce variable,
+  - proprtions of presence/absence of symptoms
+  - plot and datatable showing impact of each variable on the diagnostic outcome
+  - and a confusion matrix from the evaluation of the model are included as well.
